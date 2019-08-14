@@ -3,5 +3,6 @@ body{
     display: flex;
 }
 img{
-    align-items:center;
+    align-content:center;
+    justify-content:center;
 }
