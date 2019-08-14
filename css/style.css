@@ -1,8 +1,7 @@
 body{
     background-color: red;
     display: flex;
-}
-img{
-    align-content:center;
-    justify-content:center;
+    
+    align-items:center;
+    justify-items:center;
 }
